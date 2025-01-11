@@ -1,0 +1,20 @@
+<!DOCTYPE html> --> It means It's a HTML document
+
+<html lang="en"> --> It's the Root of HTML 
+lang="en" --> it means Language = "English"
+
+<head> --> It's head. head contains all the meta-data. meta-data are important for SEO purpose.
+
+<meta charset="UTF-8"> --> It means character-set is UTF-8
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> --> It Helps to to create responsiveness
+
+<title>Print Hello World</title> --> It's the title of the web-page.When some-one visit a website in browser title shows on the tab.
+
+</head> --> end of head
+
+<body> --> It's body it contains all the visible content on the webpage.What ever you write inside body except comment all will be displayed.
+
+</body> --> end of body
+
+</html> --> end of html
